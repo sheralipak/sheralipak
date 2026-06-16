@@ -1,12 +1,19 @@
-- 👋 Hi, I’m @sheralipak
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Mern
-- 💞️ I’m looking to collaborate on webprojecs
-- 📫 How to reach me sheraliskp2020@gmail.com
-- 😄 Pronouns: Ali
-- ⚡ Fun fact: Love AI in the form of Gpt😄
+# Hi, I'm Sher Ali 👋
 
-<!---
-sheralipak/sheralipak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a Computer Science graduate dedicated to building secure systems and identifying vulnerabilities. I use this space to document my hands-on cybersecurity labs, tools, and security research.
+
+---
+
+### 🛡️ Areas of Focus
+* **Application Security:** Writing secure code and scanning for vulnerabilities (OWASP Top 10).
+* **Network Security:** Traffic analysis, port scanning, and firewall configurations.
+* **Ethical Hacking:** Penetration testing methodologies and script automation.
+
+### 🛠️ Tools & Technologies
+* **Security Tools:** Wireshark, Nmap, Burp Suite, Metasploit
+* **Languages:** C++, Python, Bash scripting, Go
+* **Environments:** Linux (Kali, Ubuntu), Git
+
+### 📬 Connect with Me
+* **Email:** sheraliskp2020@gmail.com
+* **GitHub:** [sheralipak](https://github.com/sheralipak)
