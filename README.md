@@ -16,4 +16,4 @@ I am a Computer Science graduate dedicated to building secure systems and identi
 
 ### 📬 Connect with Me
 * **Email:** sheraliskp2020@gmail.com
-* **GitHub:** [sheralipak](https://github.com/sheralipak)
+
